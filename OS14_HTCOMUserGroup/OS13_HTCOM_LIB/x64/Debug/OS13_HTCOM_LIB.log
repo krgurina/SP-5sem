@@ -1,0 +1,37 @@
+﻿  pch.cpp
+  OS13_HTCOM_LIB.cpp
+E:\уник\СП\OS14_HTCOMUserGroup\OS13_HTCOM_LIB\HT_LIB.h(10,7): warning C4099: IHT: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+  (компиляция исходного файла "/OS13_HTCOM_LIB.cpp")
+  E:\уник\СП\OS14_HTCOMUserGroup\OS13_HTCOM\IHT.h(9,11):
+   см. объявление "IHT"
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:             _Elem=char
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         ]
+  (компиляция исходного файла "/OS13_HTCOM_LIB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	E:\уник\СП\OS14_HTCOMUserGroup\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(455,32):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  		E:\уник\СП\OS14_HTCOMUserGroup\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(455,19):
+  		см. первую ссылку на "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" в "HT_LIB::HT::RecordingWork"
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2590,17):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)"
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+  
+E:\уник\СП\OS14_HTCOMUserGroup\OS13_HTCOM_LIB\OS13_HTCOM_LIB.cpp(357): warning C4172: возвращение адреса локальной или временной переменной : num
+  OS13_HTCOM_LIB.vcxproj -> E:\уник\СП\OS14_HTCOMUserGroup\x64\Debug\OS14_HTCOM_LIB.lib

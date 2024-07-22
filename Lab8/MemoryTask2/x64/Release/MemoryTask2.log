@@ -1,0 +1,10 @@
+﻿  MemoryTask2.cpp
+E:\уник\СП\Lab8\MemoryTask2\MemoryTask2.cpp(118,32): warning C4535: для calling _set_se_translator() требуется /EHa
+E:\уник\СП\Lab8\MemoryTask2\MemoryTask2.cpp(134,29): warning C4101: f: неиспользованная локальная переменная
+E:\уник\СП\Lab8\MemoryTask2\MemoryTask2.cpp(126,17): warning C4101: e: неиспользованная локальная переменная
+  Создание кода
+  1 of 12 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MemoryTask2.vcxproj -> E:\уник\СП\Lab8\x64\Release\MemoryTask2.exe

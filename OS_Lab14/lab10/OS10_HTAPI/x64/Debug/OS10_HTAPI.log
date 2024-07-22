@@ -1,0 +1,7 @@
+﻿  Element.cpp
+  HT.cpp
+E:\уник\СП\OS_Lab14\lab10\OS10_HTAPI\HT.cpp(85,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\уник\СП\OS_Lab14\lab10\OS10_HTAPI\HT.cpp(118,21): warning C4018: <: несоответствие типов со знаком и без знака
+  pch.cpp
+  Создание кода...
+  OS10_HTAPI.vcxproj -> E:\уник\СП\OS_Lab14\lab10\x64\Debug\OS10_HTAPI.lib

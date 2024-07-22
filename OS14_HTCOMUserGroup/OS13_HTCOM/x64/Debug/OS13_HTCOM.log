@@ -1,0 +1,28 @@
+﻿  pch.cpp
+  dllmain.cpp
+  HT.cpp
+E:\уник\СП\OS14_HTCOMUserGroup\OS13_HTCOM\HT.cpp(602,90): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/HT.cpp")
+  
+E:\уник\СП\OS14_HTCOMUserGroup\OS13_HTCOM\HT.cpp(610,110): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/HT.cpp")
+  
+E:\уник\СП\OS14_HTCOMUserGroup\OS13_HTCOM\HT.cpp(635,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/HT.cpp")
+  
+E:\уник\СП\OS14_HTCOMUserGroup\OS13_HTCOM\HT.cpp(660,22): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/HT.cpp")
+  
+E:\уник\СП\OS14_HTCOMUserGroup\OS13_HTCOM\HT.cpp(686,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/HT.cpp")
+  
+  HTFactory.cpp
+  HTHandle.cpp
+  Registry.cpp
+E:\уник\СП\OS14_HTCOMUserGroup\OS13_HTCOM\Registry.cpp(141,24): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  (компиляция исходного файла "/Registry.cpp")
+  
+  Создание кода...
+OS13_HTCOM.def(1): warning LNK4017: оператор LIBARY не поддерживается на конечной платформе; пропущен
+     Создается библиотека E:\уник\СП\OS14_HTCOMUserGroup\x64\Debug\OS14_HTCOM.lib и объект E:\уник\СП\OS14_HTCOMUserGroup\x64\Debug\OS14_HTCOM.exp
+  OS13_HTCOM.vcxproj -> E:\уник\СП\OS14_HTCOMUserGroup\x64\Debug\OS14_HTCOM.dll

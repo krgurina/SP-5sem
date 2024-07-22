@@ -1,0 +1,4 @@
+﻿  OS13_02.cpp
+E:\уник\СП\OS13_HTCOM\OS13_02\OS13_02.cpp(35,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\уник\СП\OS13_HTCOM\OS13_02\OS13_02.cpp(74,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  OS13_02.vcxproj -> E:\уник\СП\OS13_HTCOM\x64\Debug\OS13_02.exe

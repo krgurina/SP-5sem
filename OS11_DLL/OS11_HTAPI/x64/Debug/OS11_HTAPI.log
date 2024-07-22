@@ -1,0 +1,41 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Element.cpp
+E:\OS11_DLL\OS11_HTAPI\Element.h(17,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::Element", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/Element.cpp")
+  
+  HT.cpp
+E:\OS11_DLL\OS11_HTAPI\Element.h(17,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::Element", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/HT.cpp")
+  
+E:\OS11_DLL\OS11_HTAPI\HT.h(44,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::HtHandle", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/HT.cpp")
+  
+E:\OS11_DLL\OS11_HTAPI\HT.cpp(507,4): warning C4297: ht::close: ожидается, что функция не будет выдавать исключения, но она это делает
+  (компиляция исходного файла "/HT.cpp")
+  E:\OS11_DLL\OS11_HTAPI\HT.cpp(507,4):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  
+E:\OS11_DLL\OS11_HTAPI\HT.cpp(510,4): warning C4297: ht::close: ожидается, что функция не будет выдавать исключения, но она это делает
+  (компиляция исходного файла "/HT.cpp")
+  E:\OS11_DLL\OS11_HTAPI\HT.cpp(510,4):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  
+E:\OS11_DLL\OS11_HTAPI\HT.cpp(513,4): warning C4297: ht::close: ожидается, что функция не будет выдавать исключения, но она это делает
+  (компиляция исходного файла "/HT.cpp")
+  E:\OS11_DLL\OS11_HTAPI\HT.cpp(513,4):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  
+E:\OS11_DLL\OS11_HTAPI\HT.cpp(516,4): warning C4297: ht::close: ожидается, что функция не будет выдавать исключения, но она это делает
+  (компиляция исходного файла "/HT.cpp")
+  E:\OS11_DLL\OS11_HTAPI\HT.cpp(516,4):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  
+E:\OS11_DLL\OS11_HTAPI\HT.cpp(519,4): warning C4297: ht::close: ожидается, что функция не будет выдавать исключения, но она это делает
+  (компиляция исходного файла "/HT.cpp")
+  E:\OS11_DLL\OS11_HTAPI\HT.cpp(519,4):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  
+  Создание кода...
+     Создается библиотека E:\OS11_DLL\x64\Debug\OS11_HTAPI.lib и объект E:\OS11_DLL\x64\Debug\OS11_HTAPI.exp
+  OS11_HTAPI.vcxproj -> E:\OS11_DLL\x64\Debug\OS11_HTAPI.dll

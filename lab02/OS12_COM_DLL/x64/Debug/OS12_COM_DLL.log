@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (OS12_COM_DLL.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  CFactory.cpp
+  dllmain.cpp
+  INSTALL.cpp
+E:\уник\СП\lab02\OS12_COM_DLL\INSTALL.cpp(161,24): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  INTERFACE.cpp
+  OS12.cpp
+  Создание кода...
+     Создается библиотека E:\уник\СП\lab02\x64\Debug\SP02_COM_DLL.lib и объект E:\уник\СП\lab02\x64\Debug\SP02_COM_DLL.exp
+SP02_COM_DLL.exp : warning LNK4070: директива /OUT:OS12_COM_DLL.dll в .EXP отличается от имени выходного файла "E:\уник\СП\lab02\x64\Debug\SP02_COM_DLL.dll"; директива игнорируется
+  OS12_COM_DLL.vcxproj -> E:\уник\СП\lab02\x64\Debug\SP02_COM_DLL.dll

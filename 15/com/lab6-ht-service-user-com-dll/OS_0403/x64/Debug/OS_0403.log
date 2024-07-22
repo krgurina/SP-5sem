@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\15\lab6-ht-service-user-com-dll\OS_0403\main.cpp(43,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\15\lab6-ht-service-user-com-dll\OS_0403\main.cpp(48,94): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  OS_0403.vcxproj -> D:\15\lab6-ht-service-user-com-dll\x64\Debug\OS_0403.exe

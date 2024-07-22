@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  Auth.cpp
+E:\уник\СП\LAB_14\OS14_HTAPI\Auth.cpp(18,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Auth.cpp")
+  
+E:\уник\СП\LAB_14\OS14_HTAPI\Auth.cpp(59,22): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Auth.cpp")
+  
+  Element.cpp
+  HT.cpp
+  Создание кода...
+  OS14_HTAPI.vcxproj -> E:\уник\СП\LAB_14\x64\Debug\OS14_HTAPI.lib
